@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeleznayaDeva
-- 👀 I’m interested in Machine Learning and its applications to the real-world problems
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently studying toward a MSc degree in Data Science 
 - 💞️ I’m looking to collaborate on any reinforcement learning projects
 - 📫 You can reach me via email
