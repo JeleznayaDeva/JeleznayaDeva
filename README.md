@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JeleznayaDeva
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently studying toward a MSc degree in Data Science 
-- 💞️ I’m looking to collaborate on any reinforcement learning or NLP projects
+- I’m interested in Machine Learning
+- I’m looking to collaborate on any reinforcement learning or NLP projects
 - 📫 You can reach me via email
 
 <!---
